@@ -5,3 +5,5 @@ Such coils can be made with PCB only.
 
 In the main file:
 18 coils in two Halbach cylinders (6 coils: inside ring, 12 - outside). 
+
+The code will be sent soon (mess inside)
