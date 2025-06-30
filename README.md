@@ -4,7 +4,7 @@ As for purpose of stopping high energy ion beam, Halbach cylinder of coils is su
 Such coils can be made with PCB only. 
 
 
-with 10 amps it was able to stop 60 MeV protons, according to scpecific ion guides and magnets geometry. 
+with 10 amps it was able to stop 60 MeV protons, according to scpecific ion guides and magnets geometry. 160 militeslas inside the cyllinder - within several % uniformity.
 
 This particular solution can work for any cyclotron, but after adjustments. kinda obvious
 
